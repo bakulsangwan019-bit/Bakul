@@ -1,4 +1,4 @@
-temperature =9
+temperature =
 
 if temperature > 30:
     print("It's a hot day")

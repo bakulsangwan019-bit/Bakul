@@ -1,5 +1,5 @@
 x = float(input("Number1: "))
-y = float(input("Number1: "))
+y = float(input("Number2: "))
 z = input("Calculate: ")
 if z == "sum":
     print(f"Sum of x and y is: {x+y}")

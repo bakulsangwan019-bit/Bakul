@@ -3,4 +3,4 @@ for i in range(5):
         print(" " , end ="")
     for st in range(i+1):
         print("*" ,  end="")
-    print()                   
+    print()

@@ -1,4 +1,5 @@
 while True:
-    x = int(input("Enter Number"))
+    x = int(input("Enter Number: "))
     if x ==0:
         break
+    print(x)
